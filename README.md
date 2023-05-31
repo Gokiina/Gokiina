@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at 42 barcelona and here I will publish each project that I complete in the campus adventure
+I'm a student at 42 Barcelona and here I will publish each project that I complete in the campus adventure 🚀
 <!--
 **Gokiina/Gokiina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
