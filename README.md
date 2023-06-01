@@ -1,6 +1,6 @@
-### Hi, I'm Ana 👋
+### Hi, I'm Ana 👋🏻
 
-I'm a student at 42 Barcelona and here I will publish each project that I complete in the campus adventure 🚀
+I'm a student at 42 Barcelona 📍 and here I will publish 🖥️ each project that I complete ✅ in the campus adventure 🚀
 
 <p align="center">
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clibuswyr006908l7bk0cdfzt/stats?cursusId=21&coalitionId=204" alt="anarodr2's 42 stats" /></a>
