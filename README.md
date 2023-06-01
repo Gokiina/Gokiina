@@ -17,7 +17,7 @@
 ---
 <div  align="center">
 	<h2>CC00</h2>
-	<h3><a href="https://github.com/Gokiina/Libft" target="_blank">Libft</a></h3>
+	<h3><a href="https://github.com/Gokiina/Libft" target="_blank">Libft 📚</a></h3>
 	<img src="src/img/125_100.jpg" height="30">
 </div>
 
@@ -25,11 +25,11 @@
 
 <div align="center">
 	<h2>CC01</h2>
-	<h3><a href="##" target="_blank">Born2beroot</a></h3>
+	<h3><a href="##" target="_blank">Born2beroot 🖥️</a></h3>
 	<img src="src/img/123_100.jpg" height="30">
-	<h3><a href="https://github.com/Gokiina/ft_printf" target="_blank">ft_printf</a></h3>
+	<h3><a href="https://github.com/Gokiina/ft_printf" target="_blank">ft_printf 🖨️</a></h3>
 	<img src="src/img/100_100.jpg" height="30">
-	<h3><a href="https://github.com/Gokiina/Get_Next_Line" target="_blank">get_next_line</a></h3>
+	<h3><a href="https://github.com/Gokiina/Get_Next_Line" target="_blank">get_next_line 〰️</a></h3>
 	<img src="src/img/125_100.jpg" height="30">
 </div>
 
