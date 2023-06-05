@@ -11,7 +11,7 @@
 
 <div  align="center">
 	<h1>CURSUS</h1>
-	<h4>Next project: IDK 🌱</h4>
+	<h4>Next project: push_swap 🌱</h4>
 </div>
 
 ---
