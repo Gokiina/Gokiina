@@ -21,7 +21,7 @@
 ---
 <div  align="center">
 	<h1>DAM</h1>
-	<h3><a href="https://github.com/Gokiina/DAM_2023" target="_blank">Evaluables 📚</a></h3>
+	<h3><a href="https://github.com/Gokiina/DAM_2023" target="_blank">Proyectos 📚</a></h3>
 </div>
 
 ---
