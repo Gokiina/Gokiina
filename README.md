@@ -1,9 +1,16 @@
 ---
 
 ### Hi, I'm Ana 👤
-<p>I'm a student at 42 Barcelona 📍 and here I will publish 🖥️ each project that I complete ✅ in the campus adventure 🚀</p>
+<p>This is my github 🚀</p>
 
 ---
+<div  align="center">
+	<h1>Diary App</h1>
+	<h3><a href="###" target="_blank">In progress</a></h3>
+</div>
+
+---
+
 
 <div  align="center">
 	<h1>42 BCN</h1>
