@@ -22,6 +22,12 @@
 <div  align="center">
 	<h1>DAM</h1>
 	<h3><a href="https://github.com/Gokiina/DAM_2023" target="_blank">Proyectos 📚</a></h3>
+	<div  align="center">
+  		<img width="500" alt="image" src="https://github.com/user-attachments/assets/4aebc4fe-5010-4e9b-a5e9-62b9377851f8">
+		<img width="500" alt="image" src="https://github.com/user-attachments/assets/49ca313d-5caf-42df-b842-ae35431a798c">
+	</div>
+	
+
 </div>
 
 ---
