@@ -6,7 +6,7 @@
 ---
 <div  align="center">
 	<h1>Diary App</h1>
-	<h3><a href="###" target="_blank">In progress</a></h3>
+	<h3><a href="https://github.com/Gokiina/DiaryApp/tree/main" target="_blank">In progress</a></h3>
 </div>
 
 ---
