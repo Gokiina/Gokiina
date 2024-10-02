@@ -14,15 +14,6 @@
 </div>
 
 ---
-
-
-<div  align="center">
-	<h1>42 BCN</h1>
-	<h3><a href="https://github.com/Gokiina/Cursus" target="_blank">Cursus 📚</a></h3>
-	<!-- <h3><a href="https://github.com/Gokiina/Piscine" target="_blank">Piscine 🏊🏻‍♀️</a></h3> -->
-</div>
-
----
 <div  align="center">
 	<div><h1>DAM</h1>
 	<h3><a href="https://github.com/Gokiina/DAM_2023" target="_blank">Proyectos 📚</a></h3></div>
@@ -32,6 +23,17 @@
 	</div>
 	
 
+</div>
+
+---
+
+<div  align="center">
+	<h1>42 BCN</h1>
+	<h3><a href="https://github.com/Gokiina/Cursus" target="_blank">Cursus 📚</a></h3>
+	<!-- <h3><a href="https://github.com/Gokiina/Piscine" target="_blank">Piscine 🏊🏻‍♀️</a></h3> -->
+	<div align="center">
+		<img width="473" alt="image" src="https://github.com/user-attachments/assets/12c07ba2-3a2f-4179-972e-99a02bcf6cfc">
+	</div>
 </div>
 
 ---
