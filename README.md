@@ -38,6 +38,17 @@
 
 ---
 
+<div  align="center">
+	<h1>Capgemini</h1>
+	<h3><a href="https://github.com/Gokiina/Capgemini" target="_blank">Ludoteca Tán 📚</a></h3>
+	<!-- <h3><a href="https://github.com/Gokiina/Piscine" target="_blank">Piscine 🏊🏻‍♀️</a></h3> -->
+	<div align="center">
+		<img width="473" alt="image" src="https://github.com/user-attachments/assets/12c07ba2-3a2f-4179-972e-99a02bcf6cfc">
+	</div>
+</div>
+
+---
+
 <!--
 **Gokiina/Gokiina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
