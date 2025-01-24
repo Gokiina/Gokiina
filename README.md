@@ -5,11 +5,10 @@
 
 ---
 <div  align="center">
-	<h1>Diary App</h1>
-	<h3><a href="https://github.com/Gokiina/DiaryApp/tree/main" target="_blank">In progress</a></h3>
+	<h1>Diary</h1>
+	<h3><a href="https://github.com/Gokiina/DiaryApp/tree/main" target="_blank">APP</a></h3>
 	<div  align="center">
-  		<img width="100" alt="image" src="https://github.com/user-attachments/assets/c3f9854b-8964-4818-bd4d-addf572ac57b">
-		<img width="100" alt="image" src="https://github.com/user-attachments/assets/9df38458-6044-4203-a3d2-a9608a340dbc">
+  		<img width="719" alt="image" src="https://github.com/user-attachments/assets/4a0862f9-4212-49c9-92c3-6065b45c82f5" />
 	</div>
 </div>
 
